@@ -1,0 +1,11 @@
+/.idea
+/build/*
+/conf/*
+/log/*
+/ps/*.bat
+
+/docker-compose.yml
+/.env
+
+!/build/*-example
+!/conf/*-example
